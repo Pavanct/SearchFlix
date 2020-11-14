@@ -11,7 +11,7 @@
 }
 
 .card-content {
-  
+  font-size: 12px;
   color: azure;
 }
 
@@ -42,4 +42,12 @@
   content: "...";
   inset-block-end: 0; /* "bottom" */
   inset-inline-end: 0; /* "right" */
+}
+
+.carousal{
+  width: 80vw;
+}
+
+h2{
+  text-align: center;
 }
